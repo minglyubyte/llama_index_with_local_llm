@@ -5,3 +5,4 @@ train.hf/
 test.hf/
 val.hf/
 Llama-2-7b-chat-hf-text2sql/
+text-to-sql-dataset.hf/
