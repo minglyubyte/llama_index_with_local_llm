@@ -7,3 +7,5 @@ val.hf/
 Llama-2-7b-chat-hf-text2sql/
 text-to-sql-dataset.hf/
 Llama-2-7b-chat-hf-text-to-sql/
+data/
+storage/
